@@ -1,0 +1,72 @@
+[
+  {
+    "id": "omelette",
+    "name": "Omelette",
+    "ingredients": ["eggs","onion","milk"],
+    "steps": ["Beat eggs","Add onion","Cook on pan"],
+    "category": "Breakfast"
+  },
+  {
+    "id": "veg_pasta",
+    "name": "Veg Pasta",
+    "ingredients": ["pasta","tomato","capsicum","onion"],
+    "steps": ["Boil pasta","Cook veggies","Mix together"],
+    "category": "Dinner"
+  },
+  {
+    "id": "fried_rice",
+    "name": "Fried Rice",
+    "ingredients": ["rice","carrot","corn","soy_sauce"],
+    "steps": ["Cook rice","Stir fry veggies","Add soy sauce"],
+    "category": "Lunch"
+  },
+  {
+    "id": "chicken_curry",
+    "name": "Chicken Curry",
+    "ingredients": ["chicken","onion","tomato","garlic"],
+    "steps": ["Cook chicken","Add spices","Simmer"],
+    "category": "Dinner"
+  },
+  {
+    "id": "grilled_cheese",
+    "name": "Grilled Cheese",
+    "ingredients": ["bread","cheese","butter"],
+    "steps": ["Butter bread","Add cheese","Grill"],
+    "category": "Snack"
+  },
+  {
+    "id": "salad",
+    "name": "Fresh Salad",
+    "ingredients": ["cucumber","tomato","lemon"],
+    "steps": ["Chop veggies","Add lemon","Mix"],
+    "category": "Healthy"
+  },
+  {
+    "id": "paneer_toast",
+    "name": "Paneer Toast",
+    "ingredients": ["bread","cheese","capsicum"],
+    "steps": ["Add toppings","Toast bread"],
+    "category": "Snack"
+  },
+  {
+    "id": "butter_chicken",
+    "name": "Butter Chicken",
+    "ingredients": ["chicken","butter","cream"],
+    "steps": ["Cook chicken","Add butter & cream"],
+    "category": "Dinner"
+  },
+  {
+    "id": "scrambled_eggs",
+    "name": "Scrambled Eggs",
+    "ingredients": ["eggs","milk","butter"],
+    "steps": ["Mix eggs","Cook with butter"],
+    "category": "Breakfast"
+  },
+  {
+    "id": "vegetable_stirfry",
+    "name": "Veg Stir Fry",
+    "ingredients": ["broccoli","carrot","soy_sauce"],
+    "steps": ["Chop veggies","Stir fry","Add sauce"],
+    "category": "Healthy"
+  }
+]

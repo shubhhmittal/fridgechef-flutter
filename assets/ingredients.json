@@ -1,0 +1,35 @@
+[
+  {"id":"milk","name":"Milk","category":"Dairy","emoji":"🥛"},
+  {"id":"butter","name":"Butter","category":"Dairy","emoji":"🧈"},
+  {"id":"cheese","name":"Cheese","category":"Dairy","emoji":"🧀"},
+  {"id":"eggs","name":"Eggs","category":"Dairy","emoji":"🥚"},
+  {"id":"yogurt","name":"Yogurt","category":"Dairy","emoji":"🥣"},
+  {"id":"cream","name":"Cream","category":"Dairy","emoji":"🍶"},
+
+  {"id":"tomato","name":"Tomato","category":"Vegetable","emoji":"🍅"},
+  {"id":"onion","name":"Onion","category":"Vegetable","emoji":"🧅"},
+  {"id":"garlic","name":"Garlic","category":"Vegetable","emoji":"🧄"},
+  {"id":"potato","name":"Potato","category":"Vegetable","emoji":"🥔"},
+  {"id":"carrot","name":"Carrot","category":"Vegetable","emoji":"🥕"},
+  {"id":"spinach","name":"Spinach","category":"Vegetable","emoji":"🥬"},
+  {"id":"broccoli","name":"Broccoli","category":"Vegetable","emoji":"🥦"},
+  {"id":"capsicum","name":"Capsicum","category":"Vegetable","emoji":"🫑"},
+  {"id":"mushroom","name":"Mushroom","category":"Vegetable","emoji":"🍄"},
+  {"id":"corn","name":"Corn","category":"Vegetable","emoji":"🌽"},
+  {"id":"cucumber","name":"Cucumber","category":"Vegetable","emoji":"🥒"},
+  {"id":"lemon","name":"Lemon","category":"Vegetable","emoji":"🍋"},
+
+  {"id":"chicken","name":"Chicken","category":"Protein","emoji":"🍗"},
+  {"id":"beef","name":"Beef","category":"Protein","emoji":"🥩"},
+  {"id":"fish","name":"Fish","category":"Protein","emoji":"🐟"},
+  {"id":"shrimp","name":"Shrimp","category":"Protein","emoji":"🍤"},
+  {"id":"tofu","name":"Tofu","category":"Protein","emoji":"🧊"},
+  {"id":"lentils","name":"Lentils","category":"Protein","emoji":"🫘"},
+
+  {"id":"pasta","name":"Pasta","category":"Pantry","emoji":"🍝"},
+  {"id":"rice","name":"Rice","category":"Pantry","emoji":"🍚"},
+  {"id":"bread","name":"Bread","category":"Pantry","emoji":"🍞"},
+  {"id":"flour","name":"Flour","category":"Pantry","emoji":"🌾"},
+  {"id":"olive_oil","name":"Olive Oil","category":"Pantry","emoji":"🫒"},
+  {"id":"soy_sauce","name":"Soy Sauce","category":"Pantry","emoji":"🥢"}
+]
